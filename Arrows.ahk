@@ -13,3 +13,9 @@ Return
 ^r::
    send, +{F12} 
 Return
+^;::
+   send, {Home} 
+Return
+^.::
+   send, {End} 
+Return

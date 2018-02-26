@@ -6,3 +6,10 @@
 
 可将AutoHotKey脚本编译成exe，放到以下目录，开机启动
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+<ctrl + h> -> left
+<ctrl + j> -> down 
+<ctrl + k> -> up 
+<ctrl + l> -> right 
+<ctrl + ;> -> Home 
+<ctrl + .> -> End
