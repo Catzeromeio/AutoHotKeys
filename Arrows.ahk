@@ -19,9 +19,10 @@ Return
 ^.::
    send, {End} 
 Return
-^q::
-   send, #^{Left} 
-Return
-^e::
-   send, #^{Right} 
-Return
+; remove short cut for changing destops
+; ^q::
+;    send, #^{Left} 
+; Return
+; ^e::
+;    send, #^{Right} 
+; Return
