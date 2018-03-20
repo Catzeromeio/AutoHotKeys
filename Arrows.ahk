@@ -19,3 +19,9 @@ Return
 ^.::
    send, {End} 
 Return
+^q::
+   send, #^{Left} 
+Return
+^e::
+   send, #^{Right} 
+Return
