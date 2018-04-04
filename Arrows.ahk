@@ -20,9 +20,9 @@ Return
    send, {End} 
 Return
 ; remove short cut for changing destops
-; ^q::
-;    send, #^{Left} 
-; Return
-; ^e::
-;    send, #^{Right} 
-; Return
+ ^q::
+    send, #^{Left} 
+ Return
+ ^e::
+    send, #^{Right} 
+ Return
